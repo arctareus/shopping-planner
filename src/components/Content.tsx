@@ -335,7 +335,7 @@ export const Content = (props: {
         <ul>
           <li>
             Make a group in{" "}
-            <a href="https://www.garlandtools.org/">Garland Tools</a> by
+            <a href="https://www.garlandtools.org/db/">Garland Tools</a> by
             pressing <i>Tools</i>, then <i>New Group</i>.
           </li>
           <li>Add all desired items to the group.</li>
